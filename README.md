@@ -1,4 +1,4 @@
-# ML-Projects
+# Predict Students Performance
 
 - linear-regression.py file contains the python code .
 - The objective is to predict the final grade of the student from given attributes.
